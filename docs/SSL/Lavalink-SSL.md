@@ -82,3 +82,35 @@ Port : 443
 Password : "linktr.ee/teamrrz"
 Secure : true
 ```
+
+### Hosted by @ [Nazha](https://github.com/knownasrazi/nazha-free-lavalink)
+```bash
+Host : lavalink.nazha.online
+Port : 443
+Password : "nazhafreelava"
+Secure : true
+```
+
+### Hosted by @ [Nazha](https://github.com/knownasrazi/nazha-free-lavalink)
+```bash
+Host : sg-1.nazha.online
+Port : 443
+Password : "https://discord.gg/XeSCnk57ZF"
+Secure : true
+```
+
+### Hosted by @ [Nazha](https://github.com/knownasrazi/nazha-free-lavalink)
+```bash
+Host : sg-2.nazha.online
+Port : 443
+Password : "https://discord.gg/XeSCnk57ZF"
+Secure : true
+```
+
+### Hosted by @ [Nazha](https://github.com/knownasrazi/nazha-free-lavalink)
+```bash
+Host : sg-3.nazha.online
+Port : 443
+Password : "https://discord.gg/XeSCnk57ZF"
+Secure : true
+```
